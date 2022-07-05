@@ -1,4 +1,4 @@
-
+ //Functions practice
 function calculateTip_and_Amount(food,tip){
   tip_percentage=tip/100
   tipAmount=food*tip_percentage
